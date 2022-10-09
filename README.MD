@@ -1,4 +1,7 @@
-﻿Build and run:
+An algorithm to flatten an arbitrarily nested array of values.
+[ 1, [ 2, [ 3 ] ], 4 ] -> [ 1, 2, 3, 4 ]
+
+Build and run:
 yarn install
 yarn run webpack
 Open application.
